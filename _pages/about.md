@@ -16,4 +16,7 @@ Currently, I am working on the design of digital companions: autonomous systems 
 
 To incorporate a sustainability dimension into these systems legal scholars working on data privacy, and environmental scientsits working on GHG emissions accounting.
 
-If you are looking to do a bachelors or master project/thesis that brings together symbolic and subsymbolic AI, IoT devices, robots, and/or Mixed Reality, get in touch. A few cool videos of previous students projects are available [here](https://youtu.be/IN_wWSA0-iE?si=FMRNklX9pkNYFuF1) and [here](https://youtu.be/O26Xq8kMT6c?si=TzbrF3nPAfZXr11f).
+Interested in a Bachelor’s or Master’s project that blends symbolic and subsymbolic AI, IoT, robotics, or Mixed Reality?
+Join us! We offer hands-on, cutting-edge projects where you can work with real devices and emerging technologies.
+Check out some of the awesome work previous students have done here](https://youtu.be/IN_wWSA0-iE?si=FMRNklX9pkNYFuF1), [here](https://youtu.be/O26Xq8kMT6c?si=TzbrF3nPAfZXr11f), and in our [youtube channel](https://www.youtube.com/@interactionshsg2533/videos).
+
