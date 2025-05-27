@@ -88,146 +88,7 @@
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
-  "publications": [
-    {
-      "name": "FoodCoach: Fully Automated Diet Counseling",
-      "publisher": "IEEE Journal of Biomedical and Health Informatics",
-      "releaseDate": "2025-01-01",
-      "website": "",
-      "summary": ""
-    },
-    {
-      "name": "A Digital Companion Architecture for Ambient Intelligence",
-      "publisher": "Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.",
-      "releaseDate": "2024-05-01",
-      "website": "https://doi.org/10.1145/3659610",
-      "summary": ""
-    },
-    {
-      "name": "A Proxy for Assessing the Automatic Encodability of Regulation",
-      "publisher": "In the proceedings of Proceedings of the 2024 Symposium on Computer Science and Law",
-      "releaseDate": "2024-01-01",
-      "website": "https://doi.org/10.1145/3614407.3643697",
-      "summary": ""
-    },
-    {
-      "name": "Gaze-based Opportunistic Privacy-preserving Human-Agent Collaboration",
-      "publisher": "In the proceedings of Extended Abstracts of the CHI Conference on Human Factors in Computing Systems",
-      "releaseDate": "2024-01-01",
-      "website": "https://doi.org/10.1145/3613905.3651066",
-      "summary": ""
-    },
-    {
-      "name": "Gaze-enabled activity recognition for augmented reality feedback",
-      "publisher": "Computers &amp; Graphics",
-      "releaseDate": "2024-01-01",
-      "website": "https://www.sciencedirect.com/science/article/pii/S009784932400044X",
-      "summary": ""
-    },
-    {
-      "name": "Temporal Scene Understanding using Contextually Unique Identification",
-      "publisher": "In the proceedings of 2024 IEEE 36th International Conference on Tools with Artificial Intelligence (ICTAI)",
-      "releaseDate": "2024-01-01",
-      "website": "",
-      "summary": ""
-    },
-    {
-      "name": "The Spectrum of Proactive Functioning in Digital Companions",
-      "publisher": "In the proceedings of Proceedings of the International Conference on Mobile and Ubiquitous Multimedia",
-      "releaseDate": "2024-01-01",
-      "website": "https://doi.org/10.1145/3701571.3701606",
-      "summary": ""
-    },
-    {
-      "name": "MR Object Identification and Interaction: Fusing Object Situation Information from Heterogeneous Sources",
-      "publisher": "Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.",
-      "releaseDate": "2023-09-01",
-      "website": "https://doi.org/10.1145/3610879",
-      "summary": ""
-    },
-    {
-      "name": "Actionable Contextual Explanations for Cyber-Physical Systems",
-      "publisher": "In the proceedings of 2023 IEEE 22nd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)",
-      "releaseDate": "2023-01-01",
-      "website": "",
-      "summary": ""
-    },
-    {
-      "name": "GEAR: Gaze-enabled augmented reality for human activity recognition",
-      "publisher": "In the proceedings of Proceedings of the 2023 Symposium on Eye Tracking Research and Applications",
-      "releaseDate": "2023-01-01",
-      "website": "https://doi.org/10.1145/3588015.3588402",
-      "summary": ""
-    },
-    {
-      "name": "SOCRAR: Semantic OCR through Augmented Reality",
-      "publisher": "In the proceedings of Proceedings of the 12th International Conference on the Internet of Things",
-      "releaseDate": "2023-01-01",
-      "website": "https://doi.org/10.1145/3567445.3567453",
-      "summary": ""
-    },
-    {
-      "name": "An Expert Digital Companion for Working Environments",
-      "publisher": "In the proceedings of Proceedings of the 11th International Conference on the Internet of Things",
-      "releaseDate": "2022-01-01",
-      "website": "https://doi.org/10.1145/3494322.3494326",
-      "summary": ""
-    },
-    {
-      "name": "Semantic Knowledge for Autonomous Smart Farming",
-      "publisher": "7th IFAC Conference on Sensing, Control and Automation Technologies for Agriculture AGRICONTROL 2022",
-      "releaseDate": "2022-01-01",
-      "website": "https://www.sciencedirect.com/science/article/pii/S2405896322027756",
-      "summary": ""
-    },
-    {
-      "name": "A Digital Companion for Air Travelers",
-      "publisher": "In the proceedings of 22nd International Conference on Human-Computer Interaction with Mobile Devices and Services",
-      "releaseDate": "2021-01-01",
-      "website": "https://doi.org/10.1145/3406324.3410544",
-      "summary": ""
-    },
-    {
-      "name": "Assisting automated fault detection and diagnostics in building automation through semantic description of functions and process data",
-      "publisher": "In the proceedings of Proceedings of the 8th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation",
-      "releaseDate": "2021-01-01",
-      "website": "https://doi.org/10.1145/3486611.3492230",
-      "summary": ""
-    },
-    {
-      "name": "The Right to Customization: Conceptualizing the Right to Repair for Informational Privacy",
-      "publisher": "In the proceedings of Privacy Technologies and Policy",
-      "releaseDate": "2021-01-01",
-      "website": "",
-      "summary": ""
-    },
-    {
-      "name": "Towards Privacy-Friendly Smart Products",
-      "publisher": "In the proceedings of 2021 18th International Conference on Privacy, Security and Trust (PST)",
-      "releaseDate": "2021-01-01",
-      "website": "",
-      "summary": ""
-    },
-    {
-      "name": "Proactive Digital Companions in Pervasive Hypermedia Environments",
-      "publisher": "In the proceedings of 2020 IEEE 6th International Conference on Collaboration and Internet Computing (CIC)",
-      "releaseDate": "2020-01-01",
-      "website": "",
-      "summary": ""
-    },
-    {
-      "name": "Digital Companion for Industry",
-      "publisher": "In the proceedings of Companion Proceedings of The 2019 World Wide Web Conference",
-      "releaseDate": "2019-01-01",
-      "website": "https://doi.org/10.1145/3308560.3316510",
-      "summary": ""
-    }
-  ],
-  "teaching": [
+   "teaching": [
     {
       "course": "Introduction to robotics (5,902,1.00)",
       "institution": "University of St. Gallen",
@@ -285,13 +146,8 @@
       "description": ""
     }
   ],
-  "portfolio": [
-    {
-      "name": "WISER Project",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Simplifying the implementation and comparison of greenhouse gas assessments with a digital ecosystem"
-    }
-  ]
+  "skills": [],
+  "languages": [],
+  "interests": [],
+  "references": []
 }

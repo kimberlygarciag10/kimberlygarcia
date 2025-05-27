@@ -1,7 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "WISER (Ongoing)"
+excerpt: "WISER is an interdisciplinary project that brings together environmental scientists, computer scienctists, and experts in business innovation to make trustworthy and consistent greenhouse gas (GHG) emissions accounting accessible to companies of all sizes. It uses semantic technologies—such as Knowledge Graphs—to create an interoperability layer across data silos and encode expert knowledge in a machine-readable, machine-understandable form. This enables the automation of several costly, manual steps in current GHG accounting practices. WISER is funded by Innosuisse, the Swiss innovation agency. [Visit the WISER website](https://wiser-climate.com)." 
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+WISER 
