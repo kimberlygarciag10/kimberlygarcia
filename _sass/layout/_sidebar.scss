@@ -83,9 +83,9 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 36px;
+  width: 100%;
   // set width only, for non-square avatars
-  // height: 36px;
+  height: auto;
 
   @include breakpoint($large) {
     display: block;
@@ -94,14 +94,26 @@
   }
 
   img {
-    max-width: 175px;
-    border-radius: 50%;
+   display: block;
+   margin: 0 auto;
+   max-width: 200px;
+   width: 80%;
+   height: 150px;      /* Set a fixed height to make it square */
+   object-fit: cover;  /* Ensures the image fills the square without distortion */
+   border-radius: 0;   /* No rounding, so it's a square */
+   box-shadow: 0 2px 8px rgba(0,0,0,0.08);
 
     @include breakpoint($large) {
-      padding: 5px;
+      padding: 0px;
       border: 1px solid var(--global-border-color);
+
     }
   }
+  @media (max-width: 600px) {
+    .author__avatar img {
+    max-width: 80px;
+  }
+}
 }
 
 .author__content {
