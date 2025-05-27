@@ -18,5 +18,5 @@ To incorporate a sustainability dimension into these systems legal scholars work
 
 Interested in a Bachelor’s or Master’s project that blends symbolic and subsymbolic AI, IoT, robotics, or Mixed Reality?
 Join us! We offer hands-on, cutting-edge projects where you can work with real devices and emerging technologies.
-Check out some of the awesome work previous students have done here](https://youtu.be/IN_wWSA0-iE?si=FMRNklX9pkNYFuF1), [here](https://youtu.be/O26Xq8kMT6c?si=TzbrF3nPAfZXr11f), and in our [youtube channel](https://www.youtube.com/@interactionshsg2533/videos).
+Check out some of the awesome work previous students have done [here](https://youtu.be/IN_wWSA0-iE?si=FMRNklX9pkNYFuF1), [here](https://youtu.be/O26Xq8kMT6c?si=TzbrF3nPAfZXr11f), and more in our [youtube channel](https://www.youtube.com/@interactionshsg2533/videos).
 
