@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am currently a senior researcher at the Institute of Computer Science at the University of St. Gallen (HSG) in Switzerland. I am part of the [Interactions research group](https://ics.unisg.ch/chairs/simon-mayer-interaction-and-communication-based-systems/) lead by Prof. Dr. Simon Mayer.
+I am currently a senior researcher at the Institute of Computer Science at the University of St. Gallen (ICS-HSG) in Switzerland. I am part of the [Interactions research group](https://ics.unisg.ch/chairs/simon-mayer-interaction-and-communication-based-systems/) lead by Prof. Dr. Simon Mayer.
 
 My research focuses on developing neurosymbolic AI methods to create socially and environmentally sustainable systems that can positively impact society.
 
